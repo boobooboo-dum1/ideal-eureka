@@ -2,7 +2,6 @@ print("Hello World")
 
 print('yo mama')
 
-print('des machin')
 
 import os
 import sys

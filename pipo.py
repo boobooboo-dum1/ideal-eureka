@@ -1,7 +1,9 @@
 print("Hello World")
 
-print('yo')
+print('yo mama')
 
-print("mama")
+print('tg')
 
-# damn
+
+
+ptint('pouuuuuuuuuuuuuuuuuuuuuuuuuuuuuet')

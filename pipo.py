@@ -1,8 +1,9 @@
 print("Hello World")
 
-print('yo')
+print('yo mama')
 
-print("mama")
+print('tg')
+
 
 # damn
 
@@ -18,3 +19,5 @@ views_file = list(cur_dir.glob('**/%s.sql' % '*'))
 
 views_name = tuple(f.name.strip(".sql") for f in views_file)
 print(views_name)
+
+print('pouuuuuuuuuuuuuuuuuuuuuuuuuuuuuet')
